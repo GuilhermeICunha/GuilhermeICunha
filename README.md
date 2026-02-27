@@ -80,7 +80,7 @@ Construindo uma carreira sólida, técnica e estratégica.
 ## 🤝 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilherme-mascarello-a9038a2a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-cunha-a9038a2a8/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
       width="40px"
